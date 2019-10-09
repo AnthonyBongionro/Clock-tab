@@ -1,0 +1,117 @@
+#clock {
+	font-size: 100px;
+}
+#date {
+	font-size: 50px;
+}
+button {
+	border:none;
+    background-color: transparent;
+    outline: none;
+}
+body {
+    background-color: #1E2019;
+    color: #E2C044;
+    font-family: courier;
+}
+/*Sidebar*/
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.5s;
+}
+
+.sidenav a:hover {
+    color: grey;
+}
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+.navTitle:hover {
+    color: grey;
+}
+.navTitle {
+    font-size: 35px;
+    cursor: default;
+}
+a {
+    cursor: pointer;
+}
+#inNavTitle:hover {
+	color: white;	
+}
+#inNavTitle {
+	font-size: 40px;
+	cursor: default;
+}
+#mySidenav {
+	background-color: #BFB500;
+}
+#mySidenav2 {
+	background-color: #7F7900;
+}
+#mySidenav3 {
+	background-color: #7F7900;
+}
+body {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+#link2 {
+    margin: auto;
+    padding: 160px;
+}
+#font1 {
+    font-family: courier;
+}
+#font2 {
+    font-family: arial;
+}
+#font3 {
+    font-family: Times New Roman;
+}
+#font4 {
+    font-family: Georgia;
+}
+#font5 {
+    font-family: Trebuchet MS;
+}
+#font6 {
+    font-family: Palatino;
+}
+#font7 {
+    font-family: bookman;
+}
+#font8 {
+    font-family: impact;
+}
+#font9 {
+    font-family: garamond;
+}
+#font10 {
+    font-family: 'Press Start 2P';
+}
